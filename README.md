@@ -18,34 +18,43 @@ This neural network is being trained on 2357 images of 9 skin cancer types. A pa
 
 
 ## Conclusions
-- The first neural network 
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- The first neural network was overfitting. This meant that reularization methods for the model parameters and image augmentation methods for the training images is required while training the model.
+- Upon implementation of dropout and image augmentation, it was seen that the model was not overfitting, but it started underfitting.
+- An analysis of the number of images in each of the categories, showed that the data was imbalanced between the different skin cancer types.
+- Once rebalancing of the data was performed along with normalization of the parameters of the model, it was seen that the model performed admirably on the data with an accuracy of about 80% on the validation data.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- pathlib - version 
+- tensorflow - version
+- tensorflow.keras - version
+- matplotlib - version
+- numpy - version
+- pandas - version
+- os - version
+- PIL - version
+- glob - version
+- google.colab - version
+- Augmentor - version 0.2.10
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+<!-- This project was inspired by... -->
+- References
+  - Downloading datasets into Google Drive via Google Colab (link: https://towardsdatascience.com/downloading-datasets-into-google-drive-via-google-colab-bcb1b30b0166)
+<!-- This project was based on [this tutorial](https://www.example.com). -->
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@SijuEC] - feel free to contact me!
 
 
 <!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
+## License
+This project is open source and available under the [MIT License]().
 
 <!-- You don't have to include all sections - just the one's relevant to your project -->
