@@ -16,7 +16,7 @@ Melanoma is a type of cancer that can be deadly if not detected early. It accoun
 
 In this project a solution in the form of a convolutional neural network is being explored.
 
-This neural network is being trained on 2357 images of 9 skin cancer types. A part of this data will be used to train the dataset and the rest of the dataset will be used to validate how accurate the model is to correctly identify the type of cancer in the images.
+This neural network is being trained on 2357 images from International Skin Imaging Collaboration (ISIC) of 9 skin cancer types. A part of this data will be used to train the dataset and the rest of the dataset will be used to validate how accurate the model is to correctly identify the type of cancer in the images.
 
 
 ## Conclusions
@@ -47,6 +47,7 @@ This neural network is being trained on 2357 images of 9 skin cancer types. A pa
 Give credit here.
 <!-- This project was inspired by... -->
 - References
+  - Images from International Skin Imaging Collaboration (ISIC) [https://challenge.isic-archive.com/data/](https://challenge.isic-archive.com/data/)
   - Downloading datasets into Google Drive via Google Colab (link: https://towardsdatascience.com/downloading-datasets-into-google-drive-via-google-colab-bcb1b30b0166)
 <!-- This project was based on [this tutorial](https://www.example.com). -->
 
