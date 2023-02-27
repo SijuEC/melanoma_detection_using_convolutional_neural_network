@@ -29,16 +29,14 @@ This neural network is being trained on 2357 images from International Skin Imag
 
 
 ## Technologies Used
-- pathlib - version 
-- tensorflow - version
-- tensorflow.keras - version
-- matplotlib - version
-- numpy - version
-- pandas - version
-- os - version
-- PIL - version
-- glob - version
-- google.colab - version
+- pathlib - version 1.0.1
+- tensorflow - version 2.11.0
+- tensorflow.keras - version 2.11.0
+- matplotlib - version 3.5.3
+- numpy - version 1.22.4
+- pandas - version 1.3.5
+- PIL - version 22.0.4
+- google.colab - version 1.0.0
 - Augmentor - version 0.2.10
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
