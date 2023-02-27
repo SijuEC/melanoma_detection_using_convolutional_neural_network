@@ -6,6 +6,8 @@ Classification of skin cancer type using a custom convolutional neural network i
 * [Conclusions](#conclusions)
 * [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
+* [Contact](#Contact)
+* [License](#License)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
